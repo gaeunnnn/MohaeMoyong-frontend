@@ -84,6 +84,16 @@ EXPO_PUBLIC_SERVER_URL=https://api.example.com
 
 ---
 
+## 🎬 시연영상
+
+<p align="center">
+  <a href="https://youtu.be/1eIJVZh9ppY">
+    <img src="https://img.youtube.com/vi/1eIJVZh9ppY/0.jpg" width="600"/>
+  </a>
+</p>
+
+---
+
 ## 🏃‍♀️ Expo 실행 방법 (Frontend)
 
 ### 0) 사전 준비
